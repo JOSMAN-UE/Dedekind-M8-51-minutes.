@@ -1,16 +1,22 @@
 # Dedekind-M8-51-minutes.
+
 The 8 Dedekind N. on 51 minutes.
 
 --------------------------------------------------------
 Sequence OEIS A132581.
+
 "New values and cool relationship."
+
 (C) Author. JM M.A. Spain-UE. 2020.
+
 Contact: JMMA965@protonmail.com
 --------------------------------------------------------
 
 New:*
+
 n     F(n)                          A blast.
 ----  ----------------------------- --------------------
+
 128            0002.4146.8204.0998; M7 aka F(128).
 
 160       0001.0915.5249.3226.6679; Last known. 
@@ -55,6 +61,7 @@ n     F(n)                          A blast.
 
 ---
 256  0561.3043.7228.6875.5790.7788; M8.
+
 ---------------------------------------------------------
 
 What's up.
@@ -68,10 +75,12 @@ M10 =F(1024) = 2*F(992).
 All Mn values, n even, are even.
 
 All calculated with the x64-86 OpenMP Windows10 EXE.
+
 Released freebie on: https://github.com/JOSMAN-UE  
 
 The program can calculate each F(n),
 with n multiple of 4 between 8 and 256.
+
 Time spent is not O(n). 
 Some numbers require computer power.
 You guys for real: A whiz. SaysME your score.
@@ -81,27 +90,34 @@ Pending: 212,216; 220,228; 232,236,244.
 
 
 (C) Author: JM Montolio A. Spain-UE. 2020.
-----------------------------------------------------
+
 
 >m8
 
 Dedekind Numbers.
   Author (C) JM Montolio A. Spain. Ag-2020.
+
 ===========================
+
 PGCQFL -- n 64 -------
 
 
 Fri Aug 07 14:54:00 2020
 
 NodeCores: 4
+
 RDO -- n 64 wC 64 iC  7828354
+
 Fri Aug 07 14:54:04 2020
 
 DBG: npermut 720
+
 Q -- n 64 wC 64 iC 7828354 RVAL 16353 DUAL 1:8071
+
 Fri Aug 07 14:54:17 2020
 
 x4 -- n 64 wC 64 iC 7828354 RVAL 16353 QDUA 8071 n4 256
+
 Fri Aug 07 14:55:55 2020
 
 DBG:  x4 ESPOT:1 CRUM= 8282
@@ -114,5 +130,6 @@ F(256)=           0561.3043.7228.6875.5790.7788
 >
 
 ////////////////////////////////////////
-M8. Spent time: 51 minutes. 
+      M8. Spent time: 51 minutes. 
 ////////////////////////////////////////
+
